@@ -39,4 +39,12 @@
 
 ## Work Experience
 
+- December 2004 - May 2008 - Carnival Cruise Lines
+- July 2008 - till now - EPAM Systems
+
+## Languages
+
+- English - Advanced
+- German - Upper Intermediate
+- Italian - Low Intermediate
 
