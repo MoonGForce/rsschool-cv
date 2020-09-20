@@ -37,3 +37,6 @@
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - 48% Complete
 1. [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - 30% Complete
 
+## Work Experience
+
+
